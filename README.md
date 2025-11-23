@@ -80,7 +80,7 @@ Bash
 
 npm run test
 
-**🤝 Contributions**
+** 🤝 Contributions**
 SOS Wallet is a community-driven, open-source project. We welcome and encourage all contributions, including bug fixes, feature enhancements, and documentation improvements.
 
 Fork the repository.
