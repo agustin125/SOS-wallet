@@ -80,9 +80,9 @@ Bash
 
 npm run test
 
-** 🤝 Contributions**
-SOS Wallet is a community-driven, open-source project. We welcome and encourage all contributions, including bug fixes, feature enhancements, and documentation improvements.
+##🤝 Contributions
 
+SOS Wallet is a community-driven, open-source project. We welcome and encourage all contributions, including bug fixes, feature enhancements, and documentation improvements.
 Fork the repository.
 
 Create a new feature branch (git checkout -b feature/AmazingFeature).
@@ -94,21 +94,6 @@ Push to the branch (git push origin feature/AmazingFeature).
 Open a Pull Request.
 
 Please review our CONTRIBUTING.md (if you plan to add one) for detailed guidelines.
-
-
-## 📦  Install project
-
-`npm install`
-
-## 📄 Configure Environment Variables
-
-Create a .env file in the root directory of your project. You can use the provided .env.example file as a template.
-
-`cp .env.example .env`
-
-## 🏃 Run project 
-
-`npm run start`
 
 ## 🪲 Run tests
 
